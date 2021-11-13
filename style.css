@@ -1,0 +1,79 @@
+.logo {
+    position: absolute;
+    left: 50px;
+    top: 55px;
+    background-size: contain;
+    height: 24px;
+    overflow: hidden;
+    text-indent: 100%;
+    width: 126px;
+}
+
+.rus {
+    position: absolute;
+    left: 283px;
+    top: 45px;
+    background-size: contain;
+    height: 35px;
+    overflow: hidden;
+    text-indent: 100%;
+    width: 70px;
+}
+
+.date {
+    position: absolute;
+    left: 22px;
+    top: 110px;
+    width: 352px;
+}
+
+.btn {
+    position: absolute;
+    left: 25px;
+    top: 470px;
+    border: 2px solid #0d4cd3;
+    border-radius: 8px;
+    padding: 14px 0;
+    text-align: center;
+    text-decoration: none;
+    color: #0d4cd3;
+    width: 340px;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: 600;
+    color:#121212;
+    font-size: 15px;
+}
+
+#name {
+    position: absolute;
+    left: 105px;
+    top: 355px;
+}
+
+#birthday {
+    position: absolute;
+    left: 100px;
+    top: 380px;
+}
+
+#birthdayDate {
+    position: absolute;
+    left: 220px;
+    top: 380px;
+}
+
+#passport {
+    position: absolute;
+    left: 115px;
+    top: 405px;
+}
+
+#passportNumber {
+    position: absolute;
+    left: 185px;
+    top: 405px;
+}
